@@ -27,10 +27,10 @@ Or use Your favourite IDE.
 
 ## Admin Panel
 As an admin of elevator system you have bunch of possible actions:
-* 1. Pickup - pick up elevator on specific floor and determine which direction you want to go, system will pick the most-fitting elevator and add this floor to it directions. Program is using 10 step simulation to choose the best one.
-* 2. Step - this option is responsible for starting next simulation step.
-* 3. Status - after picking this option, the status of all elevators is shown.
-* 4. Open Elevator Panel - after using this, user takes control of one of the elevators and send it to selected floor.
-* 5. Show Context Menu - this option prints the system menu.
-* 6. Switch simulation- on/off the real-time simulation of whole system, with random pickup requests.
-* 7. End - this option immidiately takes all of the elevators on the ground level and shuts down the whole system. 
+* 1.Pickup - pick up elevator on specific floor and determine which direction you want to go, system will pick the most-fitting elevator and add this floor to it directions. Program is using 10 step simulation to choose the best one.
+* 2.Step - this option is responsible for starting next simulation step.
+* 3.Status - after picking this option, the status of all elevators is shown.
+* 4.Open Elevator Panel - after using this, user takes control of one of the elevators and send it to selected floor.
+* 5.Show Context Menu - this option prints the system menu.
+* 6.Switch simulation- on/off the real-time simulation of whole system, with random pickup requests.
+* 7.End - this option immidiately takes all of the elevators on the ground level and shuts down the whole system. 
